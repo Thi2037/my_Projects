@@ -1,1 +1,11 @@
-MySQL 
+-----------------------------------------
+
+create database task_manager_application;
+
+---------
+
+use task_manager_application;
+
+
+----------
+create table tasks( id int auto_incerment    not null,name 
