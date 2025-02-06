@@ -1,0 +1,32 @@
+[06/02, 11:01 am] Mama: What is MySQL
+What is the difference between dbms and rdbms and abbreviation of short forms.
+[06/02, 11:02 am] Mama: Why it is required and why it is used
+[06/02, 11:03 am] Mama: What are the characteristics of MySQL
+[06/02, 11:03 am] Mama: What is attributes
+[06/02, 11:04 am] Mama: What is the structure and examples
+[06/02, 11:04 am] Mama: What is logical and arithmetic
+[06/02, 11:06 am] Mama: What are the basic queries in MySQL
+[06/02, 11:06 am] Mama: What is the meaning of  record
+[06/02, 11:07 am] Mama: What is use of select command
+[06/02, 11:09 am] Mama: Explain about add, edit, delete,  store and list commands
+[06/02, 11:10 am] Mama: What is CLI
+[06/02, 11:12 am] Mama: What  is UI and different between UI and CLI then it's use
+[06/02, 11:12 am] Mama: What is backup,  type of backup cycles
+[06/02, 11:13 am] Mama: How to cloning the database in MySQL
+[06/02, 11:15 am] Mama: What is the system requirements for MySQL
+[06/02, 11:17 am] Mama: How to calculate space requirements of database for next 5 years
+[06/02, 11:19 am] Mama: What is list connection agent MySQL with front end
+[06/02, 11:20 am] Mama: How to find the specific record
+[06/02, 11:21 am] Mama: What's this record ID and why it's important
+[06/02, 11:23 am] Mama: If you delete one record,  we able to use same record id to another record.
+[06/02, 11:24 am] Mama: What is the meaning of the table and record
+[06/02, 11:24 am] Mama: What's the column
+[06/02, 11:27 am] Mama: What is use of "WHERE" queries
+[06/02, 11:28 am] Mama: How to  add record from CLI  and UI
+[06/02, 11:29 am] Mama: How to modify record details from UI and CLI
+[06/02, 11:30 am] Mama: How to delete the record details from CLI
+[06/02, 11:30 am] Mama: What's the parameters and list it
+[06/02, 11:38 am] Mama: Create a  DB for Manufacturing company for following details and what is space requirements for next three years.  Details are below: customer Id customer name, customer address,  GST number,  GST  circle,  currency,  PO number,  Po date, delivery date , units,  Quantity,  unit price,  total price, GST TYPE
+[06/02, 11:45 am] Mama: Invoice Number, Invoice Date,  delivery date and number,  payment terms
+[06/02, 11:46 am] Mama: Payment method, Payment date,Transection number,  Bank  details
+[06/02, 11:48 am] Mama: Customer phone number, email address,  contact person,  personal mobile number
